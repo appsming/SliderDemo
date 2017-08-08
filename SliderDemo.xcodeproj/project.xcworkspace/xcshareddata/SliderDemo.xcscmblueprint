@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6811534a-604f-6b46-ba6f-4f9163813cae++5118",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6811534a-604f-6b46-ba6f-4f9163813cae++5118" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6811534a-604f-6b46-ba6f-4f9163813cae++5118" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9486B6BB-FC2B-4E73-A880-EDAAFF633AC6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6811534a-604f-6b46-ba6f-4f9163813cae++5118" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SliderDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SliderDemo\/SliderDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.129:6543\/svn\/sjcx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6811534a-604f-6b46-ba6f-4f9163813cae++5118"
+    }
+  ]
+}
